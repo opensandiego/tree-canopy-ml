@@ -1,0 +1,24 @@
+Team Members:
+Kevin Webb
+Marissa W
+David T
+Lauren
+Sylvia
+
+
+Google Drive:
+https://drive.google.com/file/d/1_edQD26qXzJlRXgzOdWMyYeshLI6pHPC/view?usp=sharing
+
+TreeCanopy_2014_POWAY (copy):
+https://www.kaggle.com/kevinlwebb/san-diego-tree-canopy
+
+Detecto: 
+https://detecto.readthedocs.io/en/latest/
+
+Colab (Kevin Webb):
+https://colab.research.google.com/drive/1Y8ffgBZ8V30bp25LpnjqZfy_Go65cht5?usp=sharing
+
+Colab (Lauren)
+Detecto test (also xmls to csv): https://colab.research.google.com/drive/1ds7lVuvKs8K44kV6Kxr2vvarfbu0A8ai?usp=sharing
+
+(...more to come.)
